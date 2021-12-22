@@ -16,6 +16,3 @@ function render(){
 
 
 render();
-
-
-
